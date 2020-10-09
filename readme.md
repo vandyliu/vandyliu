@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Ferdina Kusumah
 
-- I'm an backend software engineer ✌️
+- I'm a backend software engineer ✌️
 
 - I ❤️ building new things and helping others 🤝 . Learning something new everyday 🌞.
 
