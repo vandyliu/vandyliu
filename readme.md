@@ -126,15 +126,13 @@
 ### Stats
 
 <a href="#stats" align="center">
-    <img align="center" alt="Prathamesh's Github Stats"
-        src="https://gh-readme-stats.krish-the-dev.vercel.app/api?username=ferdinaKusumah&show_icons=true&count_private=true" />
+    <img align="center" alt="Ferdina Kusumah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ferdinaKusumah&count_private=true&show_icons=true&include_all_commits=true&show_owner=true"/>
 </a>
 
 </br>
 </br>
 <a href="#stats" align="center">
-    <img align="center"
-        src="https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=ferdinaKusumah&hide=css" />
+    <img align="center" alt="Ferdina Kusumah's Top Language" src="https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=ferdinaKusumah" />
 </a>
 
 </br>
