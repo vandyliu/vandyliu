@@ -119,7 +119,7 @@
     src="https://pbs.twimg.com/profile_images/678820444535853056/yrgjmpyU_400x400.png" />
 
 <img align="left" alt="Heroku" width="26px"
-    src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/heroku.png" />
+    src="https://image.flaticon.com/icons/png/512/873/873120.png" />
 
 <br />
 
