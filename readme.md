@@ -11,7 +11,7 @@
 - I ❤️ internet of things and everything that smart 🧐.
 - Coding all day and everyday 🤟.
 - 😄 Pronouns: him/he
-- 
+
 ![Alt Text](https://media.giphy.com/media/vitWWq2hZaPT2/giphy.gif)
 
 ### Languages:
@@ -20,7 +20,6 @@
 <img align="left" alt="PHP" width="30px" src="https://img.icons8.com/officel/16/000000/php-logo.png" />
 <img align="left" alt="Javascript" width="30px" src="https://img.icons8.com/color/48/000000/javascript.png" />
 <img align="left" alt="Bash script" width="30px" src="https://camo.githubusercontent.com/5a76ab68c90df7ecccdeac83138c8f7c62c7f3a4/687474703a2f2f69636f6e732e69636f6e617263686976652e636f6d2f69636f6e732f616c65636976652f666c6174776f6b656e2f3531322f417070732d5465726d696e616c2d50632d3130342d69636f6e2e706e67" />
-
 <br />
 
 ### Database :
@@ -37,6 +36,7 @@
 <a href="#stats" align="center">
     <img align="center" alt="Ferdina Kusumah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ferdinaKusumah&count_private=true&show_icons=true&include_all_commits=true&show_owner=true"/>
 </a>
+<br />
 
 </br>
 <a href="#stats" align="center">
@@ -44,4 +44,5 @@
 </a>
 </br>
 
+<br />
 [![Ferdina's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ferdina_kusumah)](https://github.com/anuraghazra/github-readme-stats)
