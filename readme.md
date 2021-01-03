@@ -38,11 +38,12 @@
 </a>
 <br />
 
-</br>
+<br />
 <a href="#stats" align="center">
     <img align="center" alt="Ferdina Kusumah's Top Language" src="https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=ferdinaKusumah" />
 </a>
-</br>
+<br />
 
 <br />
+
 [![Ferdina's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ferdina_kusumah)](https://github.com/anuraghazra/github-readme-stats)
