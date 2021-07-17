@@ -1,4 +1,4 @@
-### Hellooo 👋
+### Howdy 👋
 
 [![linkedin Badge](https://img.shields.io/badge/vandy--liu-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/vandy-liu)](https://www.linkedin.com/in/vandy-liu)
 
