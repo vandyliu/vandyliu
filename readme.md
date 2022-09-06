@@ -2,10 +2,10 @@
 
 [![linkedin Badge](https://img.shields.io/badge/vandy--liu-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/vandy-liu)](https://www.linkedin.com/in/vandy-liu)
 
-I'm Vandy Liu. I graduated from UBC with a Bachelor of Science in Computer Science with Distinction in the summer of 2022. I like to code stuff that makes people's lives (including myself!) easier. I mainly code in Python, but am always willing to learn new languages. Learn more about me at my [website](https://vandyliu.com).
+I'm Vandy Liu. I like to code stuff that makes people's lives (including myself!) easier. I mainly code in Python and Javascipt (mostly React), but am always willing to learn new languages. Learn more about me at my [website](https://vandyliu.com).
 
 - 😁 Pronouns: He/Him
-- 📚 Studying Computer Science at the University of British Columbia
+- 📚 Graduated with a BSc in Computer Science with Distinction at the University of British Columbia
 - 💼 Currently working at Astronomer 👨‍🚀
 - 🏢 Previously interned at Microsoft, Amazon, Splunk
 
