@@ -5,7 +5,7 @@
 I'm Vandy Liu. I like to code stuff that makes people's lives (including myself!) easier. I mainly code in Python and Javascipt (mostly React), but am always willing to learn new languages. Learn more about me at my [website](https://vandyliu.com).
 
 - 😁 Pronouns: He/Him
-- 📚 Graduated with a BSc in Computer Science with Distinction at the University of British Columbia
+- 📚 BSc in Computer Science w/ Distinction @ UBC '22
 - 💼 Currently working at Astronomer 👨‍🚀
 - 🏢 Previously interned at Microsoft, Amazon, Splunk
 
