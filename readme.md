@@ -6,7 +6,7 @@ I'm Vandy Liu. I graduated from UBC with a Bachelor of Science in Computer Scien
 
 - 😁 Pronouns: He/Him
 - 📚 Studying Computer Science at the University of British Columbia
-- 💼 Currently waiting to start my full time gig 👨‍🚀
+- 💼 Currently working at Astronomer 👨‍🚀
 - 🏢 Previously interned at Microsoft, Amazon, Splunk
 
 <a href="#stats" align="center">
