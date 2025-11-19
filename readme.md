@@ -6,7 +6,8 @@ I'm Vandy Liu. I like to code stuff that makes people's lives (including myself!
 
 - 😁 Pronouns: He/Him
 - 📚 BSc in Computer Science w/ Distinction @ UBC '22
-- 💼 Currently working at Astronomer 👨‍🚀
+- 💼 Currently working at Databricks
+- 🏢 Previously worked at Astronomer 👨‍🚀
 - 🏢 Previously interned at Microsoft, Amazon, Splunk
 
 <a href="#stats" align="center">
